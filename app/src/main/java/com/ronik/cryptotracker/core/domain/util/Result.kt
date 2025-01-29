@@ -1,4 +1,4 @@
-package com.ronik.cryptotracker.util
+package com.ronik.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

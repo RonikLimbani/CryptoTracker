@@ -1,4 +1,4 @@
-package com.ronik.cryptotracker.util
+package com.ronik.cryptotracker.core.presentation.util
 
 import com.ronik.cryptotracker.R
 
